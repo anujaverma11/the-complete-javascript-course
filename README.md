@@ -1,7 +1,11 @@
 ## The Complete JavaScript Course
 
  - Variables and Data Types
+  Five different data types: number, string, boolean, undefined and null. JavaScript is dynamic typing: data types are automatically assigned to variables.
+
  - Variable Mutation and Type Coercion
+  Variable Mutation is Type coercion is
+
  - Basic Operators
  - Operator Precedence
  - Coding Challenge 1

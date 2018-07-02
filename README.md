@@ -6,7 +6,9 @@
 
  - Variable Mutation and Type Coercion
 
-Variable Mutation is Type coercion is
+Variable Mutation is changing a value of a variable.
+
+Type coercion is when JS automatically convert one type to another as needed.
 
  - Basic Operators
  - Operator Precedence

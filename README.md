@@ -6,7 +6,7 @@
 
  - Variable Mutation and Type Coercion
 
-Variable Mutation is changing a value of a variable.
+Variable Mutation - An immutable value is one that, once created, can never be changed. In JavaScript, primitive values such as numbers, strings and booleans are always immutable. However, data structures like objects and arrays are not. By mutation I mean changing or affecting a source element.
 
 Type coercion is when JS automatically convert one type to another as needed.
 
